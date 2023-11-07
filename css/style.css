@@ -446,7 +446,7 @@ h4{
 /* Card End */
 /* footer */
 .footer{
-    background: url("/images/bg-footer-noise.jpg") no-repeat ;
+    background: url("../images/bg-footer-noise.jpg") no-repeat;
     background-size: cover;
     color:rgb(172, 144, 125);
 }
